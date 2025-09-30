@@ -20,5 +20,4 @@
 ## 📫 Let's connect!
 
 * [LinkedIn](https://www.linkedin.com/in/giovanni-orozco-calvinisti-03228a37b/)
-* Kaggle: [your-kaggle-profile](#)
 * [Email](giovanniorozcocalvinisti@gmail.com)
